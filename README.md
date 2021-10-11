@@ -1,4 +1,4 @@
-# Data-Mining-Project-
+# Data-Mining-Project
 
 Clustering of PVA's Lapsed Donors
 
